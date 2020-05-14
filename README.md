@@ -7,7 +7,7 @@ https://github.com/sidddy/flora
 
 My experience using this setup over on year can be found here:
 
-https://benjaminstelzner.de/?p=76
+https://benjaminstelzner.de/xiaomi-mi-flora/
 
 
 
